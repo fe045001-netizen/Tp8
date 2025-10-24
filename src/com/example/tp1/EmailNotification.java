@@ -1,4 +1,4 @@
-package com.exemple.tp;
+package com.example.tp1;
 
 public class EmailNotification implements Notification {
 	private String fromAddress;
